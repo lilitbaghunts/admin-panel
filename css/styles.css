@@ -1,0 +1,45 @@
+body {
+    margin: 20px;
+}
+
+.padd {
+    padding: 10px;
+}
+
+span.error {
+    color: red;
+}
+
+ul {
+    list-style: none;
+    height: 50px;
+}
+
+ul li {
+    padding-right: 20px;
+}
+
+.pull-right {
+    float: right;
+}
+
+.pull-left {
+    float: left;
+}
+
+table {
+    border: 1px solid #ddd;
+}
+
+table thead tr td {
+    border-bottom: 1px solid #ddd;
+}
+
+table td {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+form {
+    width: 40%;
+}
