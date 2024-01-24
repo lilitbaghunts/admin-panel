@@ -3,7 +3,7 @@
 class DbConnect {
 
     private $_host = 'localhost';
-    private $_dbname = 'a_task';
+    private $_dbname = 'admin_panel';
     private $_username = 'root';
     private $_password = '';
     private $_con;
